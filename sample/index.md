@@ -1,11 +1,11 @@
 # 我的個人簡介
 
 ## 基本資料
-- 姓名：
-- 暱稱：
-- 性別：
-- Email：
-- Slack ID：
+- 姓名：isomorphic
+- 暱稱：isomorphic
+- 性別：male
+- Email：isomorphic@gmail.com
+- Slack ID：isomorphic
 
 ## 技能評級
 - JavaScript：＊＊＊＊＊
@@ -22,23 +22,22 @@
 - 2016 HelloJS 完訓...
 
 ## 學歷
-- ＯＯ大學ＡＡ系
-- ＸＸ大學ＢＢ所
+- 野雞大學8+9系
 
 ## 分組資料
 - 小組名稱：
 
 ### 小組成員1(我)
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：null
+- Slack ID：isomorphic
 - 專長：
 
 ### 小組成員2
-- 姓名：ＸＸＸ
-- Slack ID：abc123
-- 專長：
+- 姓名：null
+- Slack ID：max8633
+- 專長：null
 
 ### 小組成員3
-- 姓名：ＸＸＸ
-- Slack ID：abc123
-- 專長：
+- 姓名：null
+- Slack ID：dino80416
+- 專長：null
