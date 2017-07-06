@@ -23,23 +23,23 @@
 - 
 
 ## 學歷
-- ＯＯ大學ＡＡ系
-- ＸＸ大學ＢＢ所
+-中正大學資訊工程學系
+ 
 
 ## 分組資料
-- 小組名稱：
+- 小組名稱：hellojs_overflow
 
 ### 小組成員1(我)
-- 姓名：ＸＸＸ
-- Slack ID：abc123
-- 專長：
+- 姓名：李政勳
+- Slack ID：james
+- 專長：C/C++ , PHP, Jquery, SQL, 
 
 ### 小組成員2
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：莊于萱
+- Slack ID：kaya
 - 專長：
 
 ### 小組成員3
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：徐筱懿
+- Slack ID：shiaoyi
 - 專長：
