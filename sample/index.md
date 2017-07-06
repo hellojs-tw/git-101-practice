@@ -1,11 +1,11 @@
 # 我的個人簡介
 
 ## 基本資料
-- 姓名：
-- 暱稱：
-- 性別：
-- Email：
-- Slack ID：
+- 姓名：李政勳
+- 暱稱：James
+- 性別：male
+- Email：bemyself0318@gmail.com
+- Slack ID：james
 
 ## 技能評級
 - JavaScript：＊＊＊＊＊
