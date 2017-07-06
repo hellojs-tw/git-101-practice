@@ -1,15 +1,15 @@
 # 我的個人簡介
 
 ## 基本資料
-- 姓名：
+- 姓名：Jolin
 - 暱稱：
 - 性別：
 - Email：
 - Slack ID：
 
 ## 技能評級
-- JavaScript：＊＊＊＊＊
-- CSS：＊＊
+- JavaScript：＊
+- CSS：＊
 - git：＊
 
 ## 自我介紹
@@ -29,8 +29,8 @@
 - 小組名稱：
 
 ### 小組成員1(我)
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：Jolin
+- Slack ID：jolintsai1215
 - 專長：
 
 ### 小組成員2
