@@ -1,11 +1,11 @@
 # 我的個人簡介
 
 ## 基本資料
-- 姓名：
-- 暱稱：
-- 性別：
-- Email：
-- Slack ID：
+- 姓名：徐維陽
+- 暱稱：Lavit
+- 性別：男
+- Email：lb01640000@gmail.com
+- Slack ID：lavit
 
 ## 技能評級
 - JavaScript：＊＊＊＊＊
@@ -39,6 +39,11 @@
 - 專長：
 
 ### 小組成員3
+- 姓名：ＸＸＸ
+- Slack ID：abc123
+- 專長：
+
+### 小組成員4
 - 姓名：ＸＸＸ
 - Slack ID：abc123
 - 專長：
