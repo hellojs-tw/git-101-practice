@@ -8,18 +8,19 @@
 - Slack ID：james
 
 ## 技能評級
-- JavaScript：＊＊＊＊＊
-- CSS：＊＊
-- git：＊
+- JavaScript：＊＊
+- CSS：＊
+- git：＊＊＊
 
 ## 自我介紹
-我是...
+-National Chung Cheng University 
+-Computer Science and Information Engineering
 
 ## 作品集
-- 
+-我是小廢廢 
 
 ## 經歷
-- 2016 HelloJS 完訓...
+- 
 
 ## 學歷
 - ＯＯ大學ＡＡ系
