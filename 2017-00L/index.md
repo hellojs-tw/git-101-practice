@@ -2,7 +2,7 @@
 
 ## 基本資料
 - 姓名：KENT
-- 暱稱：
+- 暱稱：KENT
 - 性別：
 - Email：
 - Slack ID：
