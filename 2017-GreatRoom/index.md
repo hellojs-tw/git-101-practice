@@ -26,19 +26,19 @@
 - ＸＸ大學ＢＢ所
 
 ## 分組資料
-- 小組名稱：
+- 小組名稱：GreatRoom
 
 ### 小組成員1(我)
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：天擇
+- Slack ID：onlyfly34
 - 專長：
 
 ### 小組成員2
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：黃競霆
+- Slack ID：gin
 - 專長：
 
 ### 小組成員3
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：黃聖閎
+- Slack ID：sk97616
 - 專長：
