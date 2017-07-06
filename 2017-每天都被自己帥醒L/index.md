@@ -2,10 +2,10 @@
 
 ## 基本資料
 - 姓名：SEN
-- 暱稱：
-- 性別：
-- Email：
-- Slack ID：
+- 暱稱：SEN
+- 性別：MALE
+- Email：senxsen@gmail.com
+- Slack ID：senxsen
 
 ## 技能評級
 - JavaScript：＊＊＊＊＊
