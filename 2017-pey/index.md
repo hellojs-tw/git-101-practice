@@ -2,9 +2,9 @@
 
 ## 基本資料
 - 姓名：lucy
-- 暱稱：
-- 性別：
-- Email：
+- 暱稱：pei
+- 性別：女
+- Email：peihsuan0518@gmail.com
 - Slack ID：
 
 ## 技能評級
