@@ -2,7 +2,7 @@
 
 ## 基本資料
 - 姓名：李侑乘
-- 暱稱：小侑
+- 暱稱：
 - 性別：男
 - Email：kmgs4524@gmail.com
 - Slack ID：kmgs4524
