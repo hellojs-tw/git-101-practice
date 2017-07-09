@@ -5,7 +5,7 @@
 - 暱稱：kaya
 - 性別：女
 - Email：kumo9102151@gmail.com
-- Slack ID：
+- Slack ID：@kaya
 
 ## 技能評級
 - JavaScript：＊
@@ -31,15 +31,20 @@
 
 ### 小組成員1(我)
 - 姓名：莊于萱
-- Slack ID：abc123
-- 專長：
+- Slack ID：@kaya
+- 專長：日語
 
 ### 小組成員2
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：李政勳
+- Slack ID：@james
 - 專長：
 
 ### 小組成員3
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：徐筱懿
+- Slack ID：@shiaoyi
+- 專長：
+
+### 小組成員4
+- 姓名：賴彥嘉
+- Slack ID：@j508508
 - 專長：
