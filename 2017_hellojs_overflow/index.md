@@ -4,32 +4,33 @@
 - 姓名：莊于萱
 - 暱稱：kaya
 - 性別：女
-- Email：
+- Email：kumo9102151@gmail.com
 - Slack ID：
 
 ## 技能評級
-- JavaScript：＊＊＊＊＊
-- CSS：＊＊
+- JavaScript：＊
+- CSS：＊
+- HTML: ＊
 - git：＊
 
 ## 自我介紹
-我是...
+我是莊于萱，是程式語言新手，正在學習HTML、CSS、JavaScript，目標是成為前端工程師。
+
 
 ## 作品集
 - 
 
 ## 經歷
-- 2016 HelloJS 完訓...
+-
 
 ## 學歷
-- ＯＯ大學ＡＡ系
-- ＸＸ大學ＢＢ所
+- 長榮大學翻譯學系
 
 ## 分組資料
-- 小組名稱：
+- 小組名稱：2017_hellojs_overflow
 
 ### 小組成員1(我)
-- 姓名：ＸＸＸ
+- 姓名：莊于萱
 - Slack ID：abc123
 - 專長：
 
