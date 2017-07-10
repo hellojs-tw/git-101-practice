@@ -1,7 +1,7 @@
 # 我的個人簡介
 
 ## 基本資料
-- 姓名：黃柏允_god
+- 姓名：黃柏允~~~~
 - 暱稱：Bruce
 - 性別：male
 - Email：bruce84530@gmail.com
