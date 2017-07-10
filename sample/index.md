@@ -3,17 +3,17 @@
 ## 基本資料
 - 姓名：莉莉安
 - 暱稱：莉莉安
-- 性別：
+- 性別：女
 - Email：
-- Slack ID：
+- Slack ID：lillian
 
 ## 技能評級
-- JavaScript：＊＊＊＊＊
-- CSS：＊＊
+- JavaScript：＊
+- CSS：＊
 - git：＊
 
 ## 自我介紹
-我是...
+我是莉莉安
 
 ## 作品集
 - 
