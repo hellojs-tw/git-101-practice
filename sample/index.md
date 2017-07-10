@@ -16,29 +16,38 @@
 我是莉莉安
 
 ## 作品集
-- 
+- 沒有
 
 ## 經歷
-- 2016 HelloJS 完訓...
+- 我的人生沒有經歷
 
 ## 學歷
-- ＯＯ大學ＡＡ系
-- ＸＸ大學ＢＢ所
+- 台中科大資管系
 
 ## 分組資料
-- 小組名稱：
+- 小組名稱：overdeadline
 
 ### 小組成員1(我)
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：莉莉安
+- Slack ID：lillian
 - 專長：
 
 ### 小組成員2
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：kevin
+- Slack ID：kevin
 - 專長：
 
 ### 小組成員3
-- 姓名：ＸＸＸ
-- Slack ID：abc123
+- 姓名：noname
+- Slack ID：noname
+- 專長：
+
+### 小組成員4
+- 姓名：ostrich2821
+- Slack ID：ostrich2821
+- 專長：
+
+### 小組成員5
+- 姓名：weber
+- Slack ID：weber
 - 專長：
