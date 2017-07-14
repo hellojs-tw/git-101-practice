@@ -1,15 +1,15 @@
 # 我的個人簡介
 
 ## 基本資料
-- 姓名：賴彥嘉
-- 暱稱：jimmy
-- 性別：man
-- Email：acerm8@gmail.com
-- Slack ID：j508508
+- 姓名：
+- 暱稱：
+- 性別：
+- Email：
+- Slack ID：
 
 ## 技能評級
-- JavaScript：＊
-- CSS：＊
+- JavaScript：＊＊＊＊＊
+- CSS：＊＊
 - git：＊
 
 ## 自我介紹
