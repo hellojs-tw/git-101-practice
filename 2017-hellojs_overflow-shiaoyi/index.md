@@ -15,10 +15,10 @@
 - nope
 
 ## 經歷
-- 2016 HelloJS 完訓...
+- sleep everday
 
 ## 學歷
-- 政治大學Ａ資管系
+- 政治大學資管系
 
 ## 分組資料
 - 小組名稱：hellojs_overflow
